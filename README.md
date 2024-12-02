@@ -12,6 +12,7 @@ In this boilerplate, we use ...
 - Deployment using [Vercel](https://vercel.com/)
 - Package manager using [pnpm](https://pnpm.io/)
 - Bundler using [Turbopack](https://turbopack.dev/)
+- Main Font using [Pretendard](https://noonnu.cc/font_page/694)
 
 ## Folder Structure
 ```
@@ -87,3 +88,5 @@ you can modify tanstack query configuration in...
 - `getQueryClient.ts` (for singleton query client)
 
 you should import prisma client from `@/lib/prisma-client` or an error will occur in deployment
+
+you can use pretendard font using className `font-pretendard`. (font-pretendard is 
