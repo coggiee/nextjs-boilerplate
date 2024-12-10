@@ -40,6 +40,7 @@ In this boilerplate, we use ...
 # If you use Next Auth (Auth.js)
 AUTH_SECRET="Your auth secret" # Added by `npx auth secret`. Read more: https://cli.authjs.dev
 AUTH_URL="Your auth url"
+
 # If you use Next Auth Provider Google, Github Sample
 AUTH_GOOGLE_ID="Your Google Client ID"
 AUTH_GOOGLE_SECRET="Your Google Client Secret"
@@ -55,6 +56,9 @@ NEXT_PUBLIC_SUPABASE_PROJECT_URL="Your Supabase Project URL"
 NEXT_PUBLIC_SUPABASE_SERVICE_ROLE_KEY="Your Supabase Service Role Key"
 NEXT_PUBLIC_SUPABASE_ANON_KEY="Your Supabase Anon Key"
 NEXT_PUBLIC_SUPABASE_JWT_SECRET="Your Supabase JWT Secret"
+
+# Clarity - Web Analytics
+NEXT_PUBLIC_CLARITY_PROJECT_ID="Your Clarity Project ID"
 ```
 
 ## Additional Notes
