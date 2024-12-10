@@ -13,6 +13,7 @@ In this boilerplate, we use ...
 - Package manager using [pnpm](https://pnpm.io/)
 - Bundler using [Turbopack](https://turbopack.dev/)
 - Main Font using [Pretendard](https://noonnu.cc/font_page/694)
+- Web Analytics using [Clarity](https://clarity.microsoft.com/)
 
 ## Folder Structure
 ```
